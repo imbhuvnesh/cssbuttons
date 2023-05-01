@@ -34,6 +34,11 @@ body {
 	background-color: #a2d9ce;
 }
 
+a,
+a:active {
+	text-decoration: none;
+	color: white;
+}
 /* .btn2 {
 	width: relative-size;
 	height: 30px;
